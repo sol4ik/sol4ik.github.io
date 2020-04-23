@@ -68,6 +68,9 @@ p.title {
     background-color: #26A69A;
     color: white;
 }
+a.none:hover {
+    background-color: #333;
+}
 
 /* footer  */
 .under-footer {
